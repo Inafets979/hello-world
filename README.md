@@ -20,8 +20,6 @@
 - [X] Ferramentas que você utiliza
 - [X] VsCode, PyCharm
 
-## Redes Sociais
-| [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-stefani-368a73282) | [![Codewars](https://www.codewars.com/users/Inafets79/badges/small)](https://www.codewars.com/users/Inafets79) |
-| :---: | :---: |
+
 
 
